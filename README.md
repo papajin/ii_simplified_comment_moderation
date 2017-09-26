@@ -1,3 +1,3 @@
 # Simplified Comment Auto Moderation
 WordPress Plugin for comment auto approval.
-If comment author's email found with already approved comment, the comment will be approved even if the author's name differs.
+There is the Wordpress option which, when selected, permits comment to appear automatically, if the commenter has a previously approved comment. By default, wordpress tries to match both the name AND email of the commenter to see if they have commented before. This is annoying because sometimes people will use a different name like Ihor one day, Ihor I. the next, etc. and the admin has to approve all the variations of peoples' names. This plugin makes WordPress to match ONLY on the email address and not the name.
