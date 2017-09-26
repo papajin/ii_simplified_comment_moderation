@@ -1,3 +1,4 @@
 theme: jekyll-theme-slate
 title: WP Simplified Comment Auto Moderation Plugin
-description: If comment author's email found with already approved comment, the comment will be approved even if the author's name differs.<section id="downloads"><a class="zip_download_link" href="https://github.com/papajin/ii_simplified_comment_moderation/archive/master.zip">Download this project as a .zip file</a></section>
+description: If comment author's email found with already approved comment, the comment will be approved even if the author's name differs.
+zip_url: https://github.com/papajin/ii_simplified_comment_moderation/archive/master.zip
